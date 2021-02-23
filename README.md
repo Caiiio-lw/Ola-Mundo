@@ -2,4 +2,4 @@
  Primeiro repositório do curso de git e github
 
  
-Apredendo git
+Apredendo git e git hub
